@@ -1,0 +1,23 @@
+
+.login-form{
+  width: 50%;
+  border: solid 2px #edd8d8;
+  padding: 30px;
+  
+}
+
+@media screen and (max-width: 800px) {
+    .login-form {
+        width: 100%;
+        border: solid 2px #edd8d8;
+        padding: 30px;
+    }
+  }
+
+.link {
+  text-decoration: none;
+  color: black;
+}
+.form-label{
+  font-weight: bold;
+}
